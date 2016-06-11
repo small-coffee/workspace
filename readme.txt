@@ -1,3 +1,4 @@
 hello git.
 
-line3
+
+fast branch
